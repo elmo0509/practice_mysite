@@ -14,3 +14,10 @@ header {
   font-size: 16px;
   color: #fafafa;
 }
+
+.main_visual h1 {
+  font-size: 64px;
+  color: #fafafa;
+  padding-top: 200px;
+  padding-bottom: 10px;
+}
