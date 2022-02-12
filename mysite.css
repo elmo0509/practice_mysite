@@ -11,6 +11,12 @@ header {
 
 .main_header {
   width: 1024px;
+}
+
+.nav-list-item {
+  list-style: none;
+  display: inline-block;
+  margin: 0 30px;
   font-size: 16px;
   color: #fafafa;
 }
@@ -26,5 +32,4 @@ header {
   color: #fafafa;
   padding-top: 200px;
   padding-bottom: 10px;
-  
 }
