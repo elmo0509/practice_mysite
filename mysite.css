@@ -25,11 +25,12 @@ header {
   background-image: url(img\ 3/mv.png);
   background-size: 100%;
   height: 650px;
+  text-align: center;
+  color: #fafafa;
 }
 
 .main_visual h1 {
   font-size: 64px;
-  color: #fafafa;
   padding-top: 200px;
   padding-bottom: 10px;
 }
