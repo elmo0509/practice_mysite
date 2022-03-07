@@ -12,6 +12,7 @@ header {
 
 .main_header {
   width: 1024px;
+  text-align: right;
 }
 
 .nav-list-item {
