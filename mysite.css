@@ -4,6 +4,7 @@
   box-sizing: border-box;
 }
 
+/* ヘッダー */
 header {
   height: 70px;
   background-color: #ec715f;
